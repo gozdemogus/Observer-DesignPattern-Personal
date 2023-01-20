@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{AE32F5BF-19C7-48D8-BB52-39F78006019D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Observer-Design-Pattern-MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Observer-Design-Pattern-MVC/Services/SmsObserver.cs">
+    <Files>
+      <File FileName="Observer-Design-Pattern-MVC/Services/EmailObserver.cs" Line="17" Column="6" />
+      <File FileName="Observer-Design-Pattern-MVC/Services/IOrderNotifier.cs" />
+      <File FileName="Observer-Design-Pattern-MVC/Services/IOrderService.cs" />
+      <File FileName="Observer-Design-Pattern-MVC/Services/OrderService.cs" Line="32" Column="6" />
+      <File FileName="Observer-Design-Pattern-MVC/Services/SmsObserver.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Observer-Design-Pattern-MVC" expanded="True">
+            <Node name="Observer-Design-Pattern-MVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="SmsObserver.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

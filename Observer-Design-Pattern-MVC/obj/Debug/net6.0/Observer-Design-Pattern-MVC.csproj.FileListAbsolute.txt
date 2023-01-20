@@ -1,0 +1,62 @@
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.csproj.AssemblyReference.cache
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.AssemblyInfoInputs.cache
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.AssemblyInfo.cs
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.csproj.CoreCompileInputs.cache
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.RazorAssemblyInfo.cache
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.RazorAssemblyInfo.cs
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/bin/Debug/net6.0/appsettings.Development.json
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/bin/Debug/net6.0/appsettings.json
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.staticwebassets.runtime.json
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.deps.json
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.runtimeconfig.json
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.dll
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.pdb
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets/msbuild.Observer-Design-Pattern-MVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets/msbuild.build.Observer-Design-Pattern-MVC.props
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Observer-Design-Pattern-MVC.props
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Observer-Design-Pattern-MVC.props
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets.build.json
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets.development.json
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/scopedcss/bundle/Observer-Design-Pattern-MVC.styles.css
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/scopedcss/projectbundle/Observer-Design-Pattern-MVC.bundle.scp.css
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.dll
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/refint/Observer-Design-Pattern-MVC.dll
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.pdb
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.genruntimeconfig.cache
+/Users/gozdemogus/Projects/Observer-Design-Pattern-MVC/Observer-Design-Pattern-MVC/obj/Debug/net6.0/ref/Observer-Design-Pattern-MVC.dll
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/bin/Debug/net6.0/appsettings.Development.json
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/bin/Debug/net6.0/appsettings.json
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.staticwebassets.runtime.json
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.deps.json
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.runtimeconfig.json
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.dll
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/bin/Debug/net6.0/Observer-Design-Pattern-MVC.pdb
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.csproj.AssemblyReference.cache
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.AssemblyInfoInputs.cache
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.AssemblyInfo.cs
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.csproj.CoreCompileInputs.cache
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.RazorAssemblyInfo.cache
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.RazorAssemblyInfo.cs
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets/msbuild.Observer-Design-Pattern-MVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets/msbuild.build.Observer-Design-Pattern-MVC.props
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Observer-Design-Pattern-MVC.props
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Observer-Design-Pattern-MVC.props
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets.build.json
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/staticwebassets.development.json
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/scopedcss/bundle/Observer-Design-Pattern-MVC.styles.css
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/scopedcss/projectbundle/Observer-Design-Pattern-MVC.bundle.scp.css
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.dll
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/refint/Observer-Design-Pattern-MVC.dll
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.pdb
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/Observer-Design-Pattern-MVC.genruntimeconfig.cache
+/Users/gozdemogus/Documents/GitHub/ND-1-Bootcamp-Progress/Design Patterns/Observer-Design-Pattern/Observer-Design-Pattern-MVC/obj/Debug/net6.0/ref/Observer-Design-Pattern-MVC.dll
